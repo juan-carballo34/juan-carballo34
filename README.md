@@ -1,12 +1,14 @@
--🌎Buenos Aires,Esteban Echeverria
+ -👨‍💻Estudiante
 
--🏫Estudiante de:Escuela Secundaria Tecnica n°1.
+ -🌎Buenos Aires,Esteban Echeverria
 
--📚 Curso: 6to 3ra.
+ -🏫Secundaria Tecnica n°1.
 
--✉️Email: juancarballo258@gmail.com
+ -📚 Curso: 6to 3ra.
 
--✍️Lenguajes vistos:
+ -✉️Email: juancarballo258@gmail.com
+
+ -✍️Lenguajes vistos:
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
